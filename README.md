@@ -42,7 +42,7 @@
 
 
 <p align="center">
-  <a href="DeepSeek_V3.pdf"><b>Paper Link</b>👁️</a>
+  <a href="https://arxiv.org/abs/2412.19437"><b>Paper Link</b>👁️</a>
 </p>
 
 
