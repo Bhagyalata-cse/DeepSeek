@@ -57,7 +57,7 @@ Despite its excellent performance, DeepSeek-V3 requires only 2.788M H800 GPU hou
 In addition, its training process is remarkably stable. 
 Throughout the entire training process, we did not experience any irrecoverable loss spikes or perform any rollbacks. 
 <p align="center">
-  <img width="80%" src="figures/benchmark.png">
+  <img width="80%" src="benchmark.png">
 </p>
 
 ## 2. Model Summary
