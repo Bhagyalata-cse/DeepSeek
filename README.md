@@ -11,11 +11,9 @@
 <p align="center">
   <a href="https://arxiv.org/abs/2501.12948"><b>DeepSeek-R1</b>👁️</a>
 </p>
-
-
-
-
 <p align="center">
   <a href="https://arxiv.org/abs/2412.19437"><b>DeepSeek-V3</b>👁️</a>
 </p>
-
+<p align="center">
+  <a href="https://arxiv.org/abs/2402.03300"><b>DeepSeek-V3</b>👁️</a>
+</p>
