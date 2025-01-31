@@ -15,5 +15,14 @@
   <a href="https://arxiv.org/abs/2412.19437"><b>DeepSeek-V3</b>👁️</a>
 </p>
 <p align="center">
+  <a href="https://arxiv.org/abs/2405.04434"><b>DeepSeek-V2</b>👁️</a>
+</p>
+<p align="center">
   <a href="https://arxiv.org/abs/2402.03300"><b>DeepSeek-Math</b>👁️</a>
+</p>
+<p align="center">
+  <a href="https://arxiv.org/abs/2401.14196"><b>DeepSeek-Coder</b>👁️</a>
+</p>
+<p align="center">
+  <a href="https://arxiv.org/abs/2401.02954"><b>DeepSeek-LLM</b>👁️</a>
 </p>
