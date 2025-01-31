@@ -30,5 +30,8 @@
   <a href="https://arxiv.org/abs/2401.14196"><b>DeepSeek-Coder</b>👁️</a>
 </p>
 <p align="center">
+  <a href="https://arxiv.org/abs/2401.06066"><b>DeepSeek-MoE</b>👁️</a>
+</p>
+<p align="center">
   <a href="https://arxiv.org/abs/2401.02954"><b>DeepSeek-LLM</b>👁️</a>
 </p>
