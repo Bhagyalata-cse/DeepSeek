@@ -21,6 +21,9 @@
   <a href="https://arxiv.org/abs/2405.04434"><b>DeepSeek-V2</b>👁️</a>
 </p>
 <p align="center">
+  <a href="https://arxiv.org/abs/2403.05525"><b>DeepSeek-VL</b>👁️</a>
+</p>
+<p align="center">
   <a href="https://arxiv.org/abs/2402.03300"><b>DeepSeek-Math</b>👁️</a>
 </p>
 <p align="center">
