@@ -15,7 +15,7 @@
   <a href="https://arxiv.org/abs/2412.19437"><b>DeepSeek-V3</b>👁️</a>
 </p>
 <p align="center">
-  <a href="https://arxiv.org/abs/2412.10302"><b>VL2</b>👁️</a>
+  <a href="https://arxiv.org/abs/2412.10302"><b>DeepSeek-VL2</b>👁️</a>
 </p>
 <p align="center">
   <a href="https://arxiv.org/abs/2405.04434"><b>DeepSeek-V2</b>👁️</a>
